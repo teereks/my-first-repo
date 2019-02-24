@@ -1,28 +1,13 @@
-# This is a large heading
+# Welcome
 
-## This is a smaller heading
+## Geolocation
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia. 
 
-- This is
-- an unordered
-- list
+## Roman Empire
 
-1. This is
-2. an ordered
-3. list
+The Roman Empire (Latin: Imperium Rōmānum, Classical Latin: [ɪmˈpɛ.ri.ũː roːˈmaː.nũː]; Koine and Medieval Greek: Βασιλεία τῶν Ῥωμαίων, tr. Basileia tōn Rhōmaiōn; Italian: Impero romano) was the post-Roman Republic period of the ancient Roman civilization.
 
-Here is `some code` in the middle of a sentence.
+## Legacy
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The Roman Empire was among the most powerful economic, cultural, political and military forces in the world of its time. It was one of the largest empires in world history. At its height under Trajan, it covered 5 million square kilometres.
